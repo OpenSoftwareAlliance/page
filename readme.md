@@ -1,3 +1,17 @@
+<!-- osa:header:start -->
+# OSA Page
+
+Link-in-bio pages. Open alternative to **Google Sites**, part of the [Open Software Alliance](https://github.com/OpenSoftwareAlliance) suite.
+
+| | |
+|---|---|
+| Upstream | [Singlelink](https://github.com/singlelink-co/Singlelink), kept in sync with this repository |
+| License | GPL-3.0 |
+
+Credit for the original work goes to the Singlelink authors. Everything below this header is the upstream README.
+
+---
+<!-- osa:header:end -->
 <h1 align="center">
   <a href="https://singlelink.io">
     <img alt="Singlelink logo" height="150" src="https://uploads-ssl.webflow.com/61adc63433f2df05fde531f0/6208a997bb1f010bd2fc014f_singlelink-badge-padded.svg">
